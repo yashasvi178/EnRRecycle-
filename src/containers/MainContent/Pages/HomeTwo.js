@@ -73,7 +73,7 @@ class HomeTwo extends Component{
                                             </h1>
                                             <p className="home-subtitle mx-auto pt-2">We provide several services that will help you with your recycling process.</p>
                                             <div className="mt-5">
-                                                <Link to="#" className="btn btn-custom">Get in touch</Link>
+                                                 <a href="https://EnRQRScanner.yashasvi178.repl.co">Our QR Scanner</a>
                                             </div>
                                             <span  onClick={this.onOpenModal} className="pt-4 video-play-icon watch-overview d-inline-block text-white">Watch the overview &nbsp;<i className="mdi mdi-chevron-right"></i></span>
                             
